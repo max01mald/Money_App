@@ -126,7 +126,7 @@ be scheduled
 
 ## Installing
 
-- `git clone https://github.com/matthewferderber/comp354-myMoney`
+- `https://github.com/max01mald/Money_App.git`
 - Open in Eclipse
 
 ## Requirements
