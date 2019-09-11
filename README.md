@@ -120,6 +120,9 @@ be scheduled
 | Mylene Haurie      | mylenehaurie@gmail.com         | Mylene-H          | Organizer
 | Kai Nicoll-Griffith| Kai.nicoll.griffith@gmail.com  | kng-scherezade    | Organizer
 
+## Work Done by Maximilien Malderle
+
+- Entire Statistics page Code and related Tests 
 
 ## Installing
 
